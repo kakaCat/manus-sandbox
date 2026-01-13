@@ -1,6 +1,0 @@
-# A2A Protocol Example - Dependencies
-# No external dependencies required
-# Uses only Python standard library
-
-# Optional: For enhanced logging
-# colorlog>=6.7.0
