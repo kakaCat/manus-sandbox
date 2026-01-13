@@ -1,0 +1,25 @@
+# LangChain + Google A2A SDK 示例
+# 安装依赖: pip install -r requirements.txt
+
+# Google A2A SDK
+a2a-sdk[http-server]==0.3.22
+
+# LangChain 核心
+langchain==0.3.0
+langchain-core==0.3.0
+langchain-openai==0.2.0
+langchain-community==0.3.0
+
+# OpenAI API
+openai>=1.0.0
+
+# Web 框架
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+
+# 异步支持
+asyncio-mqtt>=0.11.0
+
+# 工具
+pydantic>=2.0.0
+python-dotenv>=1.0.0
